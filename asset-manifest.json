@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Redux_IMDB_Cinema/static/css/main.050a7485.chunk.css",
+    "main.js": "/Redux_IMDB_Cinema/static/js/main.7601bba3.chunk.js",
+    "main.js.map": "/Redux_IMDB_Cinema/static/js/main.7601bba3.chunk.js.map",
+    "runtime~main.js": "/Redux_IMDB_Cinema/static/js/runtime~main.b8ad28a4.js",
+    "runtime~main.js.map": "/Redux_IMDB_Cinema/static/js/runtime~main.b8ad28a4.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Redux_IMDB_Cinema/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d20df482.chunk.js": "/Redux_IMDB_Cinema/static/js/2.d20df482.chunk.js",
+    "static/js/2.d20df482.chunk.js.map": "/Redux_IMDB_Cinema/static/js/2.d20df482.chunk.js.map",
+    "index.html": "/Redux_IMDB_Cinema/index.html",
+    "precache-manifest.34bb864a6856e9978d69ddbfb61364e7.js": "/Redux_IMDB_Cinema/precache-manifest.34bb864a6856e9978d69ddbfb61364e7.js",
+    "service-worker.js": "/Redux_IMDB_Cinema/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Redux_IMDB_Cinema/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.050a7485.chunk.css.map": "/Redux_IMDB_Cinema/static/css/main.050a7485.chunk.css.map"
+  }
+}
